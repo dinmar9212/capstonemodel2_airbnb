@@ -1,7 +1,3 @@
-Berikut adalah file `README.md` dalam bahasa Indonesia untuk proyek Airbnb Capstone berdasarkan Jupyter Notebook yang diberikan. File ini mencakup gambaran umum, tujuan, detail dataset, metodologi, hasil, dan panduan untuk menjalankan analisis.
-
----
-
 # Analisis Optimalisasi Pendapatan Airbnb di Bangkok
 
 ## Gambaran Umum
